@@ -2,7 +2,7 @@
 
 $dbServername = "localhost";
 $dbUsername ="root";
-$dbPassword ="Silpa!123";
+$dbPassword ="";
 $dbName="phpcourses";
  
 $conn = mysqli_connect($dbServername, $dbUsername, $dbPassword, $dbName);
